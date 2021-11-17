@@ -32,7 +32,7 @@
 body{
 	font-family: 'proxima_nova_rgregular', Helvetica, Arial, sans-serif;
 }
-h1{
+.wufoo .info h2{
    font-family: 'proxima_nova_rgbold', Helvetica, Arial, sans-serif;
 }
 .wufoo {
